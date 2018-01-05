@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
-def display_rainbow
+def display_rainbow(colors)
   colors = ["red", "orange", "yellow", "green", "blue",
     "indigo", "violet"]
   puts "the colors of the rainbow are R: #{colors[0]}, O: #{colors[1]},
